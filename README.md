@@ -1,41 +1,93 @@
-# Hybrid Knowledge Chatbot
+# Hybrid Knowledge Chatbot 🤖
 
-## Overview
-This project is a Python-based chatbot that uses a JSON knowledge base to answer user queries. It applies fuzzy string matching to find the closest question and returns the stored answer.
+Self-Learning Python Chatbot with Web Scraping and Fuzzy Matching
 
-If no match is found, the chatbot uses web scraping to fetch relevant information from the internet. New question-answer pairs are then stored automatically, allowing the system to improve over time.
+---
 
-## Features
-- JSON-based knowledge storage for Q&A  
-- Fuzzy matching using difflib for better input handling  
-- Web scraping fallback using requests and BeautifulSoup  
-- Self-learning system that updates knowledge base automatically  
+## 📌 Overview
 
-## Technologies Used
+A Python-based chatbot that answers user queries using a local JSON knowledge base and improves itself over time.
+
+The system uses:
+- Fuzzy string matching (difflib)
+- Web scraping (requests + BeautifulSoup)
+- JSON-based knowledge storage
+- Self-learning Q&A updates
+
+This project demonstrates how simple AI concepts, web data extraction, and memory systems can be combined into a smart assistant.
+
+---
+
+# 🚀 Features
+
+✅ JSON-based Knowledge Base  
+✅ Fuzzy Matching for similar questions  
+✅ Web Scraping fallback for unknown queries  
+✅ Automatic learning and data storage  
+✅ Continuous improvement with usage  
+
+---
+
+# 🛠️ Technologies Used
+
 - Python  
 - JSON  
 - difflib  
 - requests  
 - BeautifulSoup  
 
-## Working Flow
-1. User enters a question  
-2. Chatbot checks local knowledge base  
-3. If a match is found, it returns the answer  
-4. If not, it scrapes web data for response  
-5. New Q&A is saved into JSON for future use  
+---
 
-## Setup Instructions
+# ⚙️ System Workflow
 
-Install required libraries:
-pip install requests beautifulsoup4
+## 1. User Input
+User enters a question in natural language.
 
+## 2. Knowledge Base Search
+System searches JSON file using fuzzy matching.
 
-Run the program:
-python main.py
+## 3. Response Handling
+- If match found → return stored answer  
+- If not found → trigger web scraping  
 
+## 4. Web Scraping
+Extracts relevant information from online sources.
 
-## Future Improvements
-- Add GUI using Tkinter or Streamlit  
-- Improve natural language processing accuracy  
-- Replace JSON storage with a database system
+## 5. Learning Phase
+New Q&A is stored in JSON for future use.
+
+---
+
+# 📊 Core Components
+
+## Fuzzy Matching
+Used to identify closest matching questions even with spelling variations.
+
+## Web Scraping Engine
+Fetches live information from external websites when no local match exists.
+
+## Knowledge Base
+Stores all learned question-answer pairs in structured JSON format.
+
+---
+
+# 📈 System Behavior
+
+| Case | Action |
+|------|------|
+| Known Question | Returns stored answer |
+| Similar Question | Uses fuzzy matching |
+| Unknown Question | Scrapes web data |
+| New Query | Stores in knowledge base |
+
+---
+
+# 📁 Project Structure
+
+```bash
+Hybrid-Chatbot/
+│
+├── knowledge_base.json
+├── chatbot.py
+├── README.md
+└── requirements.txt
