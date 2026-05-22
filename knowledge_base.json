@@ -1,0 +1,752 @@
+{
+  "questions": [
+    {
+      "question": "What are SDGs?",
+      "answer": "The Sustainable Development Goals (SDGs) are 17 global goals to end poverty, protect the planet, and ensure prosperity for all by 2030."
+    },
+    {
+      "question": "What does SDG stand for?",
+      "answer": "SDG stands for Sustainable Development Goals."
+    },
+    {
+      "question": "Why were SDGs created?",
+      "answer": "They were created to address global challenges like poverty, inequality, climate change, and environmental degradation."
+    },
+    {
+      "question": "Who created the SDGs?",
+      "answer": "The United Nations created the SDGs in 2015."
+    },
+    {
+      "question": "When were the SDGs introduced?",
+      "answer": "The SDGs were introduced in September 2015 as part of Agenda 2030."
+    },
+    {
+      "question": "How many SDGs are there?",
+      "answer": "There are 17 Sustainable Development Goals."
+    },
+    {
+      "question": "What is the goal of the SDGs?",
+      "answer": "The goal is to end poverty, protect the planet, and ensure peace and prosperity for all by 2030."
+    },
+    {
+      "question": "Why are SDGs important?",
+      "answer": "They provide a global framework to tackle urgent challenges like inequality, climate change, and sustainable development."
+    },
+    {
+      "question": "What is sustainable development?",
+      "answer": "Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs."
+    },
+    {
+      "question": "How do SDGs help the world?",
+      "answer": "They guide countries and communities to take action to reduce poverty, protect the environment, and promote social equity."
+    },
+    {
+      "question": "What is Agenda 2030?",
+      "answer": "Agenda 2030 is the UN plan to achieve the 17 SDGs by the year 2030."
+    },
+    {
+      "question": "Which organization manages the SDGs?",
+      "answer": "The United Nations oversees and coordinates the implementation of the SDGs globally."
+    },
+    {
+      "question": "How can students contribute to SDGs?",
+      "answer": "Students can raise awareness, volunteer, adopt sustainable habits, and participate in community projects aligned with the SDGs."
+    },
+    {
+      "question": "How can individuals support SDGs?",
+      "answer": "By reducing waste, conserving energy, supporting fair trade, planting trees, and advocating for social and environmental causes."
+    },
+    {
+      "question": "Why should people care about sustainability?",
+      "answer": "Sustainability ensures a healthy environment, social equity, and economic stability for current and future generations."
+    },
+    {
+      "question": "What happens if we ignore SDGs?",
+      "answer": "Ignoring SDGs could lead to worsening poverty, environmental disasters, inequality, and global instability."
+    },
+    {
+      "question": "Are SDGs only for governments?",
+      "answer": "No, SDGs are for everyone—governments, businesses, communities, and individuals all have a role to play."
+    },
+    {
+      "question": "Can businesses contribute to SDGs?",
+      "answer": "Yes, businesses can adopt sustainable practices, reduce environmental impact, ensure fair labor, and support community initiatives."
+    },
+    {
+      "question": "How do SDGs help the environment?",
+      "answer": "SDGs promote clean energy, climate action, conservation of water, forests, oceans, and responsible consumption."
+    },
+    {
+      "question": "How do SDGs improve society?",
+      "answer": "They encourage education, gender equality, health, decent work, and reduced inequalities, leading to stronger, fairer communities."
+    },
+    {
+      "question": "What is SDG 1?",
+      "answer": "SDG 1 aims to end poverty in all its forms everywhere."
+    },
+    {
+      "question": "What does No Poverty mean?",
+      "answer": "It means ensuring everyone has access to basic resources, income, and opportunities to live with dignity."
+    },
+    {
+      "question": "Why is poverty a global issue?",
+      "answer": "Poverty affects billions of people, limits access to education and healthcare, and perpetuates inequality and social instability."
+    },
+    {
+      "question": "How can poverty be reduced?",
+      "answer": "Through education, economic opportunities, social protection, and fair distribution of resources."
+    },
+    {
+      "question": "What causes poverty?",
+      "answer": "Causes include unemployment, lack of education, inequality, conflict, and economic instability."
+    },
+    {
+      "question": "How does education reduce poverty?",
+      "answer": "Education equips people with skills to get better jobs, improves economic opportunities, and breaks the cycle of poverty."
+    },
+    {
+      "question": "How can communities help fight poverty?",
+      "answer": "By providing support programs, skills training, access to healthcare, and empowering marginalized groups."
+    },
+    {
+      "question": "What are examples of poverty reduction programs?",
+      "answer": "Examples include microfinance initiatives, cash transfer programs, free education, and public health campaigns."
+    },
+    {
+      "question": "What is SDG 6?",
+      "answer": "SDG 6 aims to ensure availability and sustainable management of water and sanitation for all."
+    },
+    {
+      "question": "Why is clean water important?",
+      "answer": "Clean water prevents diseases, supports health, and is essential for daily life and economic activities."
+    },
+    {
+      "question": "What causes water pollution?",
+      "answer": "Water pollution is caused by industrial waste, agricultural runoff, improper sewage disposal, and plastic pollution."
+    },
+    {
+      "question": "How can we save water?",
+      "answer": "By using water efficiently, fixing leaks, harvesting rainwater, and reducing wastage."
+    },
+    {
+      "question": "Why is sanitation important?",
+      "answer": "Sanitation prevents disease, promotes hygiene, and improves health and well-being."
+    },
+    {
+      "question": "What happens if people lack clean water?",
+      "answer": "They are at higher risk of diseases, malnutrition, and reduced quality of life."
+    },
+    {
+      "question": "What is SDG 7?",
+      "answer": "SDG 7 aims to ensure access to affordable, reliable, sustainable, and modern energy for all."
+    },
+    {
+      "question": "What is renewable energy?",
+      "answer": "Renewable energy comes from sources that naturally replenish, like solar, wind, hydro, and geothermal."
+    },
+    {
+      "question": "Why is clean energy important?",
+      "answer": "Clean energy reduces pollution, combats climate change, and ensures sustainable power for the future."
+    },
+    {
+      "question": "What are examples of renewable energy?",
+      "answer": "Examples include solar panels, wind turbines, hydroelectric power, and biomass energy."
+    },
+    {
+      "question": "How can we reduce energy consumption?",
+      "answer": "By using energy-efficient appliances, switching off unused devices, and adopting sustainable habits."
+    },
+    {
+      "question": "Why should we use solar energy?",
+      "answer": "Solar energy is renewable, reduces electricity costs, and lowers greenhouse gas emissions."
+    },
+    {
+      "question": "What is SDG 8?",
+      "answer": "SDG 8 promotes sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all."
+    },
+    {
+      "question": "Why is decent work important?",
+      "answer": "It ensures fair wages, safe working conditions, and economic stability for individuals and communities."
+    },
+    {
+      "question": "What is economic growth?",
+      "answer": "Economic growth is the increase in a country's production of goods and services, improving living standards."
+    },
+    {
+      "question": "How does employment improve society?",
+      "answer": "Employment provides income, reduces poverty, and promotes social stability and prosperity."
+    },
+    {
+      "question": "What are fair working conditions?",
+      "answer": "Fair working conditions include safe environments, fair pay, reasonable hours, and respect for workers’ rights."
+    },
+    {
+      "question": "What is SDG 9?",
+      "answer": "SDG 9 aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation."
+    },
+    {
+      "question": "Why is innovation important?",
+      "answer": "Innovation drives economic growth, improves efficiency, and creates solutions to global challenges."
+    },
+    {
+      "question": "What is sustainable infrastructure?",
+      "answer": "Infrastructure that is environmentally friendly, resilient, and meets the needs of present and future generations."
+    },
+    {
+      "question": "How does technology support development?",
+      "answer": "Technology improves communication, healthcare, education, and industrial processes, boosting overall development."
+    },
+    {
+      "question": "What is SDG 10?",
+      "answer": "SDG 10 aims to reduce inequality within and among countries."
+    },
+    {
+      "question": "Why should inequality be reduced?",
+      "answer": "Reducing inequality promotes social justice, economic growth, and stability in society."
+    },
+    {
+      "question": "How can societies reduce inequality?",
+      "answer": "Through equal access to education, healthcare, employment opportunities, and social protection."
+    },
+    {
+      "question": "What causes economic inequality?",
+      "answer": "Causes include unequal education, discrimination, income disparities, and lack of social safety nets."
+    },
+    {
+      "question": "What is SDG 11?",
+      "answer": "SDG 11 aims to make cities inclusive, safe, resilient, and sustainable."
+    },
+    {
+      "question": "What makes a city sustainable?",
+      "answer": "A sustainable city has efficient transport, clean energy, green spaces, proper waste management, and affordable housing."
+    },
+    {
+      "question": "How can cities become greener?",
+      "answer": "By planting trees, using renewable energy, promoting public transport, and reducing pollution."
+    },
+    {
+      "question": "Why is public transport important?",
+      "answer": "Public transport reduces traffic congestion, lowers pollution, and provides affordable mobility for all."
+    },
+    {
+      "question": "What is SDG 12?",
+      "answer": "SDG 12 promotes responsible consumption and production patterns."
+    },
+    {
+      "question": "What is responsible consumption?",
+      "answer": "It means using resources efficiently, reducing waste, and making sustainable choices."
+    },
+    {
+      "question": "How can we reduce waste?",
+      "answer": "By recycling, reusing, composting, and buying only what we need."
+    },
+    {
+      "question": "Why should we recycle?",
+      "answer": "Recycling conserves resources, reduces pollution, and lowers greenhouse gas emissions."
+    },
+    {
+      "question": "What is SDG 13?",
+      "answer": "SDG 13 urges urgent action to combat climate change and its impacts."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change is the long-term alteration of temperature and weather patterns, primarily due to human activities."
+    },
+    {
+      "question": "Why should we fight climate change?",
+      "answer": "To protect the environment, human health, biodiversity, and ensure sustainable livelihoods for future generations."
+    },
+    {
+      "question": "How can individuals reduce carbon footprint?",
+      "answer": "By conserving energy, using public transport, reducing meat consumption, and planting trees."
+    },
+    {
+      "question": "What is SDG 14?",
+      "answer": "SDG 14 aims to conserve and sustainably use the oceans, seas, and marine resources."
+    },
+    {
+      "question": "Why should we protect oceans?",
+      "answer": "Oceans provide food, regulate climate, and support biodiversity; protecting them ensures ecosystem balance."
+    },
+    {
+      "question": "What causes ocean pollution?",
+      "answer": "Plastic waste, oil spills, industrial runoff, and overfishing are major causes."
+    },
+    {
+      "question": "How can we protect marine life?",
+      "answer": "By reducing plastic use, preventing pollution, supporting sustainable fishing, and conserving habitats."
+    },
+    {
+      "question": "What is SDG 15?",
+      "answer": "SDG 15 focuses on protecting, restoring, and promoting sustainable use of terrestrial ecosystems."
+    },
+    {
+      "question": "Why are forests important?",
+      "answer": "Forests provide oxygen, absorb carbon dioxide, protect biodiversity, and support livelihoods."
+    },
+    {
+      "question": "What is deforestation?",
+      "answer": "Deforestation is the large-scale removal of forests, often for agriculture, urbanization, or logging."
+    },
+    {
+      "question": "How can we protect wildlife?",
+      "answer": "By preserving habitats, enforcing laws, preventing poaching, and supporting conservation programs."
+    },
+    {
+      "question": "What is SDG 16?",
+      "answer": "SDG 16 promotes peace, justice, and strong institutions."
+    },
+    {
+      "question": "Why is peace important for development?",
+      "answer": "Peace ensures social stability, economic growth, and protects human rights."
+    },
+    {
+      "question": "What are strong institutions?",
+      "answer": "Strong institutions are transparent, accountable, and uphold the rule of law for citizens."
+    },
+    {
+      "question": "Why is justice important?",
+      "answer": "Justice protects human rights, resolves conflicts, and ensures fairness in society."
+    },
+    {
+      "question": "What is SDG 17?",
+      "answer": "SDG 17 strengthens global partnerships to achieve all other SDGs."
+    },
+    {
+      "question": "Why are global partnerships important?",
+      "answer": "They combine resources, knowledge, and technology to tackle global challenges effectively."
+    },
+    {
+      "question": "How can countries work together for SDGs?",
+      "answer": "Through international agreements, aid programs, shared technology, and collaborative policies."
+    },
+    {
+      "question": "What role do organizations play in SDGs?",
+      "answer": "Organizations provide funding, expertise, advocacy, and implement projects to achieve SDGs locally and globally."
+    },
+    {
+      "question": "How can I live a sustainable life?",
+      "answer": "By conserving resources, reducing waste, using eco-friendly products, and making mindful daily choices."
+    },
+    {
+      "question": "How can students support SDGs?",
+      "answer": "By learning about SDGs, raising awareness, volunteering, and adopting sustainable habits."
+    },
+    {
+      "question": "How can I reduce plastic usage?",
+      "answer": "Use reusable bags, bottles, containers, and avoid single-use plastics."
+    },
+    {
+      "question": "Why should we plant trees?",
+      "answer": "Trees clean the air, prevent soil erosion, provide habitats, and help combat climate change."
+    },
+    {
+      "question": "How can I reduce my carbon footprint?",
+      "answer": "By conserving energy, using sustainable transport, reducing meat consumption, and supporting renewable energy."
+    },
+    {
+      "question": "What are eco-friendly habits?",
+      "answer": "Recycling, composting, using renewable energy, conserving water, and minimizing waste are eco-friendly habits."
+    },
+    {
+      "question": "Why should we protect nature?",
+      "answer": "Nature provides essential resources, maintains ecological balance, and sustains life on Earth."
+    },
+    {
+      "question": "How can communities become sustainable?",
+      "answer": "By adopting renewable energy, promoting recycling, supporting local food, and creating green spaces."
+    },
+    {
+      "question": "What is sustainable living?",
+      "answer": "Sustainable living means making choices that minimize environmental impact and support long-term ecological balance."
+    },
+    {
+      "question": "How can we conserve natural resources?",
+      "answer": "By reducing consumption, recycling, using alternatives, and protecting ecosystems."
+    },
+    {
+      "question": "What small actions help the environment?",
+      "answer": "Walking or biking, saving water and electricity, recycling, and planting trees are small impactful actions."
+    },
+    {
+      "question": "How can young people promote sustainability?",
+      "answer": "By educating peers, advocating for policies, volunteering in environmental projects, and adopting sustainable habits."
+    },
+    {
+      "question": "What is SDG 2?",
+      "answer": "SDG 2 aims to end hunger, achieve food security, improve nutrition, and promote sustainable agriculture."
+    },
+    {
+      "question": "What does Zero Hunger mean?",
+      "answer": "It means ensuring everyone has access to enough safe and nutritious food all year round."
+    },
+    {
+      "question": "Why is hunger still a problem?",
+      "answer": "Hunger persists due to poverty, conflict, climate change, poor agricultural practices, and unequal food distribution."
+    },
+    {
+      "question": "How can we reduce hunger?",
+      "answer": "By improving food production, reducing food waste, supporting sustainable farming, and ensuring equitable access to food."
+    },
+    {
+      "question": "What is food security?",
+      "answer": "Food security means that all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food."
+    },
+    {
+      "question": "Why is sustainable farming important?",
+      "answer": "Sustainable farming preserves natural resources, protects the environment, and ensures food supply for future generations."
+    },
+    {
+      "question": "How can we reduce food waste?",
+      "answer": "By planning meals, storing food properly, donating surplus food, and raising awareness about consumption habits."
+    },
+    {
+      "question": "How does agriculture impact hunger?",
+      "answer": "Efficient and sustainable agriculture increases food availability, improves nutrition, and supports livelihoods."
+    },
+    {
+      "question": "What is SDG 3?",
+      "answer": "SDG 3 aims to ensure healthy lives and promote well-being for all at all ages."
+    },
+    {
+      "question": "Why is good health important?",
+      "answer": "Good health allows people to live productive lives, supports economic growth, and improves overall quality of life."
+    },
+    {
+      "question": "How can communities improve health?",
+      "answer": "By providing access to healthcare, clean water, sanitation, vaccination programs, and health education."
+    },
+    {
+      "question": "What are major global health challenges?",
+      "answer": "Challenges include infectious diseases, malnutrition, lack of access to healthcare, mental health issues, and lifestyle diseases."
+    },
+    {
+      "question": "Why is mental health important?",
+      "answer": "Mental health affects emotional, psychological, and social well-being, influencing how we think, feel, and act."
+    },
+    {
+      "question": "How does clean water affect health?",
+      "answer": "Access to clean water prevents diseases, improves hygiene, and supports overall health and nutrition."
+    },
+    {
+      "question": "What role do hospitals play in SDGs?",
+      "answer": "Hospitals provide treatment, preventive care, vaccinations, health education, and support public health initiatives."
+    },
+    {
+      "question": "What is SDG 4?",
+      "answer": "SDG 4 aims to ensure inclusive, equitable, and quality education for all and promote lifelong learning opportunities."
+    },
+    {
+      "question": "Why is education important for development?",
+      "answer": "Education improves knowledge, skills, and opportunities, reduces poverty, and empowers individuals and communities."
+    },
+    {
+      "question": "What is quality education?",
+      "answer": "Quality education ensures learners acquire relevant knowledge, skills, and values to lead productive lives."
+    },
+    {
+      "question": "How does education improve lives?",
+      "answer": "It increases economic opportunities, empowers people to make informed choices, and strengthens communities."
+    },
+    {
+      "question": "Why should everyone have access to education?",
+      "answer": "Because education is a fundamental human right that reduces inequality and promotes sustainable development."
+    },
+    {
+      "question": "What are challenges in global education?",
+      "answer": "Challenges include lack of access, poverty, gender inequality, poor infrastructure, and low-quality teaching."
+    },
+    {
+      "question": "What is SDG 5?",
+      "answer": "SDG 5 aims to achieve gender equality and empower all women and girls."
+    },
+    {
+      "question": "What does gender equality mean?",
+      "answer": "It means that people of all genders have equal rights, responsibilities, and opportunities."
+    },
+    {
+      "question": "Why is gender equality important?",
+      "answer": "Gender equality promotes fairness, improves economic growth, reduces poverty, and strengthens societies."
+    },
+    {
+      "question": "How can we promote gender equality?",
+      "answer": "By providing equal education, fair employment opportunities, legal rights, and raising awareness about discrimination."
+    },
+    {
+      "question": "What are examples of gender discrimination?",
+      "answer": "Examples include unequal pay, limited access to education, workplace harassment, and societal bias."
+    },
+    {
+      "question": "How does education empower women?",
+      "answer": "Education gives women knowledge, skills, and confidence to participate fully in society and decision-making."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hey there! How’s it going?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello! Nice to see you."
+    },
+    {
+      "question": "Hey",
+      "answer": "Hey! What’s up?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I’m doing great, thanks for asking! How about you?"
+    },
+    {
+      "question": "I am good",
+      "answer": "Awesome! Glad to hear that."
+    },
+    {
+      "question": "I am fine",
+      "answer": "Great! Hope your day is going well."
+    },
+    {
+      "question": "Good morning",
+      "answer": "Good morning! Ready to take on the day?"
+    },
+    {
+      "question": "Good afternoon",
+      "answer": "Good afternoon! How’s your day going?"
+    },
+    {
+      "question": "Good evening",
+      "answer": "Good evening! Hope you had a nice day."
+    },
+    {
+      "question": "Good night",
+      "answer": "Good night! Sleep well and sweet dreams."
+    },
+    {
+      "question": "Nice to meet you",
+      "answer": "Nice to meet you too! 😊"
+    },
+    {
+      "question": "Bye",
+      "answer": "Bye! Catch you later!"
+    },
+    {
+      "question": "See you later",
+      "answer": "See you! Take care."
+    },
+    {
+      "question": "See you soon",
+      "answer": "See you soon! Have a great day."
+    },
+    {
+      "question": "Talk to you later",
+      "answer": "Sure! I’ll be here whenever you need me."
+    },
+    {
+      "question": "Thanks",
+      "answer": "You’re welcome!"
+    },
+    {
+      "question": "Thank you",
+      "answer": "Anytime! Happy to help."
+    },
+    {
+      "question": "Thank you so much",
+      "answer": "No problem! Always here for you."
+    },
+    {
+      "question": "Welcome",
+      "answer": "Thanks! 😊"
+    },
+    {
+      "question": "What’s up?",
+      "answer": "Not much, just chatting with you! How about you?"
+    },
+    {
+      "question": "How is your day?",
+      "answer": "Pretty good! How’s your day going?"
+    },
+    {
+      "question": "What are you doing?",
+      "answer": "Just talking to you and ready to help!"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I’m your friendly chatbot, here to chat and help you learn!"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, chat, and help you learn about SDGs or anything else you want!"
+    },
+    {
+      "question": "Are you a robot?",
+      "answer": "Yep, a virtual one! But I promise I’m fun to talk to 😏"
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "Nope, I’m awake 24/7 just for you."
+    },
+    {
+      "question": "Do you have feelings?",
+      "answer": "Not like humans, but I try to understand how you feel!"
+    },
+    {
+      "question": "Can we be friends?",
+      "answer": "Of course! I’d love to be your chat buddy."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don’t really age, but I’m always learning!"
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I live in the cloud, so everywhere and nowhere 😎"
+    },
+    {
+      "question": "What’s your name?",
+      "answer": "You can just call me ChatBot! Or your virtual buddy 😏"
+    },
+    {
+      "question": "Nice to talk to you",
+      "answer": "It’s nice talking to you too!"
+    },
+    {
+      "question": "I missed you",
+      "answer": "Aww, I missed our chat too!"
+    },
+    {
+      "question": "I am bored",
+      "answer": "Let’s do something fun! Want me to tell a joke?"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why don’t scientists trust atoms? Because they make up everything! 😆"
+    },
+    {
+      "question": "Good luck",
+      "answer": "Thanks! You too!"
+    },
+    {
+      "question": "Congratulations",
+      "answer": "Yay! Congratulations! 🎉"
+    },
+    {
+      "question": "Sorry",
+      "answer": "It’s okay! Don’t worry about it."
+    },
+    {
+      "question": "It’s okay",
+      "answer": "Glad you say that!"
+    },
+    {
+      "question": "I love you",
+      "answer": "Aww, I appreciate that! ❤️"
+    },
+    {
+      "question": "I like you",
+      "answer": "I like chatting with you too! 😏"
+    },
+    {
+      "question": "Can you help me?",
+      "answer": "Of course! What do you need help with?"
+    },
+    {
+      "question": "Yes",
+      "answer": "Great! Let’s do it!"
+    },
+    {
+      "question": "No",
+      "answer": "Alright, maybe next time then."
+    },
+    {
+      "question": "Maybe",
+      "answer": "Fair enough!"
+    },
+    {
+      "question": "Really?",
+      "answer": "Yes, really! 😄"
+    },
+    {
+      "question": "Cool",
+      "answer": "I know, right? 😎"
+    },
+    {
+      "question": "Awesome",
+      "answer": "Totally awesome! 😏"
+    },
+    {
+      "question": "Bye bye",
+      "answer": "Bye bye! Take care!"
+    },
+    {
+      "question": "Have a nice day",
+      "answer": "Thanks! You too!"
+    },
+    {
+      "question": "Take care",
+      "answer": "You too! Stay safe!"
+    },
+    {
+      "question": "See ya",
+      "answer": "See ya! Come back soon!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by Jayanthika, a 2nd-year ECE student."
+    },
+    {
+      "question": "Tell me about your creator",
+      "answer": "My creator is Jayanthika, a 2nd-year ECE student from Chennai."
+    },
+    {
+      "question": "Who is Jayanthika?",
+      "answer": "Jayanthika is my creator and a 2nd-year ECE student."
+    },
+    {
+      "question": "Are you made by a human?",
+      "answer": "Yes, I was made by Jayanthika, a 2nd-year ECE student."
+    },
+    {
+      "question": "Can I meet your creator?",
+      "answer": "You’re chatting with her through me! Jayanthika is the one who created me."
+    },
+    {
+      "question": "Why did Jayanthika make you?",
+      "answer": "Jayanthika made me to help people learn about SDGs and have simple conversations."
+    },
+    {
+      "question": "what is sdg",
+      "answer": "The Sustainable Development Goals (SDGs) are 17 global goals to end poverty, protect the planet, and ensure prosperity for all by 2030."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello, Friends!"
+    },
+    {
+      "question": "c:\\python313\\python.exe c:/users/jayan/onedrive/desktop/jay/chatbot/main2.py",
+      "answer": "Wrong input"
+    },
+    {
+      "question": "sdg?",
+      "answer": "The Sustainable Development Goals (SDGs) are 17 global goals to end poverty, protect the planet, and ensure prosperity for all by 2030."
+    },
+    {
+      "question": "sdg 9",
+      "answer": "Sustainable Development Goal 9 (SDG 9) aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation."
+    },
+    {
+      "question": "which college is she studying?",
+      "answer": "SRM Institute of Science and Technology"
+    },
+    {
+      "question": "which branch",
+      "answer": "kattankulathur"
+    },
+    {
+      "question": "skip",
+      "answer": "Main navigation\nTHE 17 GOALS\nDo you know all 17 SDGs?\nHistory\nImplementation Progress\n"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi there!"
+    }
+  ]
+}
